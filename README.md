@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CarlFriedrichGauss1
+- 👋 Hi, I’m @Vasilis Rousopoulos
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I study mathematics
 
-<!---
-CarlFriedrichGauss1/CarlFriedrichGauss1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
